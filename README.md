@@ -11,7 +11,7 @@ Steps to execute this function:
    git clone https://github.com/abhishekjkrsna/lambda-nodejs
   
 3. Makes changes to the lambda handler function in app.js if you want.
-4. Conatinerize the file
+4. Containerize the file
    ```bash
    docker build -t <image name> .
    ```
